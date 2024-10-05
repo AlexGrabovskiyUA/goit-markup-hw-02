@@ -103,15 +103,11 @@ background-color: #404BBF;
 
 /* --------------------------------Information----------------------------------- */
 
-.blog {
+.blog{
     background-color: #F4F4FD;
 }
 
-.blog-list {}
-
-.blog-item {}
-
-.blog-title {
+.blog-title{
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -129,13 +125,13 @@ background-color: #404BBF;
 
 /* --------------------------------Our Team----------------------------------- */
 
-.allteams{
+.publications{
     background-color: #F4F4FD;
 }
 
 
 .public{
-font-weight: 700;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
