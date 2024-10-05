@@ -48,10 +48,12 @@ a {
 }
 
 .link-address {
-        font-style: normal;
+        font-style:normal;
 }
 
-.list-address{}
+.list-address{
+    font-style: normal;
+}
 
 .link-address {
         font-weight: 400;
