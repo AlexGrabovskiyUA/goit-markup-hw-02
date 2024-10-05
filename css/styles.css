@@ -187,7 +187,9 @@ background-color: #404BBF;
         color: #2e2f42;
 }
 
-.infoteams-list {}
+.infoteams-list {
+    background-color: #FFFFFF;
+}
 
 .infoteams-item {}
 
