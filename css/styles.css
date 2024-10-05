@@ -1,0 +1,198 @@
+.body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    background-color: #fff;
+}
+
+
+
+/* --------------------------------Header----------------------------------- */
+.panel {}
+
+.navigation-panel {}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+
+.span-logo {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;
+}
+
+.panel-list {}
+
+.item-panel {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.panel-address {}
+
+.list-address{}
+
+.item-address {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.link:hover{
+    color: #404BBF;
+}
+.link:focus{
+    color: #4D5AE5;
+}
+/* --------------------------------Header----------------------------------- */
+/* --------------------------------Effective Solutions for Your Business------------------------------- */
+
+.hero {
+    background: #2e2f42;
+}
+
+.hero-title {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        color: #fff;
+}
+
+.btn-hero {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        cursor:pointer;
+        background: #4d5ae5;
+}
+
+/* --------------------------------Information----------------------------------- */
+
+.blog {
+    display: none;
+}
+
+.blog-list {}
+
+.blog-item {}
+
+.blog-title {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.blog-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* --------------------------------Our Team----------------------------------- */
+
+.allteams {}
+
+.teammakers {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.teammakers-list {}
+
+.teammakers-item {}
+
+.teammakers-img {}
+
+.teammakers-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.teammakers-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* --------------------------------Our Portfolio----------------------------------- */
+.infoteams {}
+
+.infoteams-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.infoteams-list {}
+
+.infoteams-item {}
+
+.infoteams-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.infoteams-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.infoteams-img {}
+/* --------------------------------footer----------------------------------- */
+
+.footer-aside {
+    background: #2e2f42;
+}
+.logo{}
+.span-footer-logo{
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
+.footer-aside-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color:#f4f4fd;
+    }
