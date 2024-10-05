@@ -1,7 +1,7 @@
 .body {
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
-    background-color: #fff;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 
@@ -11,16 +11,18 @@
 
 .navigation-panel {}
 
-.logo {
+.logo-link {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;
+        color: #2e2f42;
 }
-
+.logo-link:focus,.logo-link:hover{
+color: #404bbf;
+}
 .span-logo {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -51,14 +53,15 @@
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        font-style: normal;
 }
 .link:hover{
     color: #404BBF;
 }
 .link:focus{
-    color: #4D5AE5;
+    color: #404bbf;
 }
-/* --------------------------------Header----------------------------------- */
+
 /* --------------------------------Effective Solutions for Your Business------------------------------- */
 
 .hero {
@@ -68,12 +71,14 @@
 .hero-title {
     font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         color: #fff;
+        text-align: center;
 }
 
 .btn-hero {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -82,11 +87,15 @@
         cursor:pointer;
         background: #4d5ae5;
 }
+.btn-hero:hover,.btn-hero:focus{
+background-color: #404BBF;
+}
 
 /* --------------------------------Information----------------------------------- */
 
 .blog {
     display: none;
+    background-color: #F4F4FD;
 }
 
 .blog-list {}
@@ -111,17 +120,23 @@
 
 /* --------------------------------Our Team----------------------------------- */
 
-.allteams {}
+.allteams {
+    background-color: #F4F4FD;
+}
 
 .teammakers {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-align: center;
+        text-transform: capitalize;
 }
 
-.teammakers-list {}
+.teammakers-list {
+    background-color: #fff;
+}
 
 .teammakers-item {}
 
@@ -149,8 +164,10 @@
 .infoteams-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 
@@ -161,7 +178,7 @@
 .infoteams-subtitle {
     font-weight: 500;
         font-size: 20px;
-        line-height: 1.2;
+        line-height: 1.12;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
