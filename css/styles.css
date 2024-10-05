@@ -145,11 +145,11 @@ background-color: #404BBF;
 }
 
 .teammakers-list {
-    background-color: #FFFFFF;
+ 
 }
 
 .teammakers-item {
-    background-color: #FFFFFF;
+ 
 }
 
 .teammakers-img {}
@@ -160,7 +160,7 @@ background-color: #404BBF;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        background-color: #FFFFFF;
+    
 }
 
 .teammakers-text {
@@ -169,12 +169,12 @@ background-color: #404BBF;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-        background-color: #FFFFFF;
+      
 }
 
 /* --------------------------------Our Portfolio----------------------------------- */
 .infoteams {
-
+background-color: #FFFFFF;
 }
 
 .infoteams-title {
