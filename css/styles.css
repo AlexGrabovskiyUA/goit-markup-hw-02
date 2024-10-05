@@ -158,23 +158,25 @@ font-weight: 700;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        background-color: #FFFFFF;
     
 }
 
-.public_text {
+.public_text{
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        background-color: #FFFFFF;
 }
 
 /* --------------------------------Our Portfolio----------------------------------- */
-.promo {
+.promo{
 background-color: #FFFFFF;
 }
 
-.promo-title {
+.promo-title{
         font-weight:700;
         font-size:36px;
         line-height:1.11;
@@ -184,11 +186,11 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.promo-list {
+.promo-list{
     background-color: #FFFFFF;
 }
 
-.promo-subtitle {
+.promo-subtitle{
         font-weight:500;
         font-size:20px;
         line-height:1.2;
@@ -196,7 +198,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.promo-text {
+.promo-text{
     font-weight:400;
         font-size:16px;
         line-height:1.5;
