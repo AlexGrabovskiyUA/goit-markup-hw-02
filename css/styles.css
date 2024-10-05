@@ -104,7 +104,6 @@ background-color: #404BBF;
 /* --------------------------------Information----------------------------------- */
 
 .blog {
-    display: none;
     background-color: #F4F4FD;
 }
 
@@ -134,11 +133,8 @@ background-color: #404BBF;
     background-color: #F4F4FD;
 }
 
-.team_makers {
-        
-}
 
-.team_makers-list {
+.team_list {
 font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -148,13 +144,8 @@ font-weight: 700;
     text-transform: capitalize;
 }
 
-.team_makers-item {
- 
-}
 
-.team_makers-img {}
-
-.team_makers-subtitle {
+.team_subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -163,7 +154,7 @@ font-weight: 700;
     
 }
 
-.team_makers-text {
+.team_text {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -190,8 +181,6 @@ background-color: #FFFFFF;
     background-color: #FFFFFF;
 }
 
-.infoteams-item {}
-
 .infoteams-subtitle {
     font-weight: 500;
         font-size: 20px;
@@ -208,7 +197,6 @@ background-color: #FFFFFF;
         color: #434455;
 }
 
-.infoteams-img {}
 /* --------------------------------footer----------------------------------- */
 
 .footer-aside {
