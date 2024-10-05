@@ -129,12 +129,12 @@ background-color: #404BBF;
 
 /* --------------------------------Our Team----------------------------------- */
 
-.allteams {
+.allteams{
     background-color: #F4F4FD;
 }
 
 
-.public {
+.public{
 font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -152,7 +152,7 @@ font-weight: 700;
     background-color: #FFFFFF;
 }
 
-.public_subtitle {
+.public_subtitle{
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
