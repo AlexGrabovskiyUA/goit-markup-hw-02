@@ -18,7 +18,7 @@
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
 }
 .logo-link:focus,.logo-link:hover{
 color: #4d5ae5;
@@ -33,7 +33,9 @@ color: #4d5ae5;
         color: #2e2f42;
 }
 
-.panel-list {}
+.panel-list {
+    color:#2e2f42;
+}
 
 .item-panel {
     font-weight: 500;
@@ -166,7 +168,7 @@ background-color: #404BBF;
 .infoteams-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.2;
+        line-height:1.2;
         letter-spacing: 0.02em;
         text-align: center;
         text-transform: capitalize;
@@ -200,11 +202,11 @@ background-color: #404BBF;
     background: #2e2f42;
 }
 .footer-logo{
-    font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
+        font-family:"Raleway", sans-serif;
+        font-weight:700;
+        font-size:18px;
+        line-height:1.17;
+        letter-spacing:0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
 }
